@@ -9,7 +9,7 @@ btn.addEventListener('click' , () => {
   search.value + 'kg';
 
   if(search.value === '') {
-    alert('geli miisankaaga xaywaan');
+    alert('ha yeelin xaywaan🤦 geli miisankaga');
     return;
   }
 
